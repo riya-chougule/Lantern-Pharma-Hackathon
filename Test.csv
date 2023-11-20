@@ -1,0 +1,83 @@
+Smiles,Name,Activity Source,Activity Type,Classification,Reported_Value
+O=C(\C=C\c1ccc(cc1)C#N)c1cc2c(cc1)cccc2,(E)-4-(3-(naphthalen-2-yl)-3-oxoprop-1-en-1-yl)benzonitrile,Winter&Gozzi_2014,IC50,0,0.00006
+Clc1cc(Cl)ccc1\C=C\C(=O)c1cc2c(cc1)cccc2,"(E)-3-(2,4-dichlorophenyl)-1-(naphthalen-2-yl)prop-2-en-1-one",Winter&Gozzi_2014,IC50,0,0.00006
+O=C([O-])c1cc(Nc2nc(nc3c2cccc3)-c2ccncc2)ccc1,3-((2-(pyridin-4-yl)quinazolin-4-yl)amino)benzoic acid,Krapf_2017,IC50,0,0.00006
+O=C1C=CC(=O)c2n(c-3c(c12)C(=O)c1c-3cccc1)Cc1ccccc1,"5-benzylindeno[1,2-b]indole-6,9,10(5H)-trione",Gozzi_2015,%inhibition at 10 uM,0,0.00001
+O=C1C=CC(=O)c2n(c-3c(c12)C(=O)c1c-3cccc1)CCc1ccccc1,"5-(2-Phenylethyl)-5H-indeno[1,2-b]indole-6,9,10-trione",Gozzi_2015,%inhibition at 10 uM,0,0.000018
+O=C1CCCc2n(c-3c(c12)C(=O)c1c-3cccc1)C(C)C,"5-isopropyl-7,8-dihydroindeno[1,2-b]indole-9,10(5H,6H)-dione",Gozzi_2015_2,%inhibition at 10 uM,0,0.000015
+O(CCOC)c1cc2c(ncnc2Nc2cc(ccc2)C#C)cc1OCCOC,erlotinib Erlotinib,D'Cunha_2016 Matsson_2007,IC50 (uM) reported by Montanari_2014,1,0.00000223
+S(c1ccccc1C(=O)NC)c1cc2[nH]nc(c2cc1)\C=C\c1ncccc1,axitinib,D'Cunha_2016,IC50 (uM),1,0.00000689
+O1c2c(C=CC1=O)c(OC\C=C(\CC\C=C(\C)/C)/C)c1c(occ1)c2,bergamottin,Fleisher_2015,IC50 (uM),1,0.00000319
+O1c2c(C=CC1=O)c(OC\C=C(\CCC(O)C(O)(C)C)/C)c1c(occ1)c2,"6',7'-Dihydroxybergamottin",Fleisher_2015,IC50 (uM),1,0.0000052
+O1c2c(c(OC)c(OC)c(OC)c2OC)C(=O)C=C1c1cc(OC)c(OC)cc1,nobiletin Nobiletin,Fleisher_2015 Pick_2011,IC50 (uM) reported by Montanari_2014,1,0.00000104
+O(C)c1cccc(OC)c1C(=O)\C=C\c1ccccc1,"2',6'-Dimethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.026
+O(C)c1cccc(OC)c1C(=O)\C=C\c1ccccc1OC,"2,2',6'-Trimethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.007
+O(C)c1cccc(OC)c1C(=O)\C=C\c1cc(OC)ccc1,"3, 2',6'-Trimethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.019
+O(C)c1cccc(OC)c1C(=O)\C=C\c1c(OC)cccc1OC,"2,2',6,6'-Tetramethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.067
+O(C)c1cccc(OC)c1C(=O)\C=C\c1c(OC)cc(OC)cc1OC,"2,2',4,6,6'-Pentamethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.183
+O(C)c1c(OC)c(OC)ccc1\C=C\C(=O)c1c(OC)cccc1OC,"2',4,5,6,6'-Pentamethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.094
+O(C)c1cccc(OC)c1C(=O)\C=C\c1cc(OC)c(OC)cc1OC,"2,2',4,5,6'-Pentamethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.189
+O(CC)c1cccc(OCC)c1C(=O)\C=C\c1c(OC)cc(OC)cc1OC,"2',6'-Diethoxy-2,4,6-trimethoxychalcone",Valdameri_2012,%inhibition at 10 uM,1,0.551
+O(CC)c1cccc(OCC)c1C(=O)\C=C\c1c(OC)cccc1OC,"2',6'-Diethoxy-2,6-dimethoxychalcone",Valdameri_2012,%inhibition at 10 uM,0,0.174
+O(C)c1cc(OC)ccc1C(=O)\C=C\c1ccc(OC)cc1OC,"2',4,4',6-Tetramethoxychalcone",Valdameri_2012,%inhibition at 10 uM,1,0.553
+O(C)c1cc(OC)cc(OC)c1C(=O)\C=C\c1c(OC)cc(OC)cc1OC,"2,2',4,4',6,6'-Hexamethoxychalcone",Valdameri_2012,%inhibition at 10 uM,1,0.718
+O(C)c1cc(ccc1OC)-c1nc(Nc2cc(O)ccc2)c2c(n1)cccc2,"3-((2-(3,4-Dimethoxyphenyl)quinazolin-4-yl)amino)-phenol",Juvale_2013_2,IC50,1,0.00000014
+FC(F)(F)c1ccc(cc1)C(=O)Nc1ccccc1-c1nn(nn1)-c1ccc(cc1)C,N-(2-(2-(4-Methylphenyl)-2H-tetrazol-5-yl)phenyl)-4-(trifluoromethyl)benzamide,Kohler_2015,IC50,1,0.000000137
+n1c(nc2c(cccc2)c1Nc1cc(ccc1)C#N)-c1ccncc1,3-((2-(Pyridin-4-yl)quinazolin-4-yl)amino)benzonitrile,Krapf_2017,IC50,1,0.000000134
+n1c(nc(Nc2cc(ccc2)C#N)cc1C)-c1ccncc1,3-((6-Methyl-2-(pyridin-4-yl)pyrimidin-4-yl)amino)benzonitrile,Krapf_2017,IC50,1,0.000000132
+FC(F)(F)c1ccc(cc1)C(=O)Nc1ccccc1-c1nn(nn1)-c1ccc(OC)nc1,N-(2-(2-(6-Methoxypyridin-3-yl)-2H-tetrazol-5-yl)phenyl)-4-(trifluoromethyl)benzamide,Koehler_2018,IC50,1,0.00000013
+O(C)c1cc(-c2nn(nn2)-c2ccc(OC)cc2)c(NC(=O)c2ccc([N+](=O)[O-])cc2)cc1,N-(4-Methoxy-2-(2-(4-methoxyphenyl)-2H-tetrazol-5-yl)phenyl)-4-nitrobenzamide,Koehler_2018,IC50,1,0.000000129
+n1c(nc(Nc2ccc(cc2)C#N)cc1C)-c1ccccc1,4-((6-Methyl-2-phenylpyrimidin-4-yl)amino)benzonitrile,Krapf_2017,IC50,1,0.000000128
+n1c(nc(Nc2cc(ccc2)C#N)cc1C)-c1ccccc1,3-((6-Methyl-2-phenylpyrimidin-4-yl)amino)benzonitrile,Krapf_2017,IC50,1,0.000000122
+O(C)c1ccc(-n2nc(nn2)-c2ccccc2NC(=O)c2ccc([N+](=O)[O-])cc2)cc1,N-(2-(2-(4-Methoxyphenyl)-2H-tetrazol-5-yl)phenyl)-4-nitrobenzamide,Kohler_2015,IC50,1,0.000000118
+O(C)c1cc(ccc1OC)C(=O)Nc1ccccc1-c1nn(nn1)-c1ccc(OC)cc1,"3,4-Dimethoxy-N-(2-(2-(4-methoxyphenyl)-2H-tetrazol-5-yl)-phenyl)benzamide",Kohler_2015,IC50,1,0.000000117
+O=[N+]([O-])c1cc(Nc2nc(nc3c2cccc3)-c2ccncc2)ccc1,N-(3-Nitrophenyl)-2-(pyridin-4-yl)quinazolin-4-amine,Krapf_2017,IC50,1,0.000000117
+o1c(nnc1-c1ccccc1)-c1ccccc1NC(=O)c1ccccc1,"N-(2-(5-phenyl-1,3,4-oxadiazol-2-yl)phenyl)benzamide",Koehler_2018,IC50,1,0.000000112
+n1c(nc2c(cccc2)c1Nc1cc(ccc1)C#N)-c1cccnc1,3-((2-(Pyridin-3-yl)quinazolin-4-yl)amino)benzonitrile,Krapf_2017,IC50,1,0.000000108
+FC(F)(F)c1ccc(cc1)C(=O)Nc1ccccc1-c1nn(nn1)-c1ccc(OC)cc1,N-(2-(2-(4-Methoxyphenyl)-2H-tetrazol-5-yl)phenyl)-4-(trifluoromethyl)benzamide,Kohler_2015,IC50,1,0.000000106
+O=[N+]([O-])c1cc(Nc2nc(nc3c2cccc3)-c2cccnc2)ccc1,N-(3-Nitrophenyl)-2-(pyridin-3-yl)quinazolin-4-amine,Krapf_2017,IC50,1,0.000000105
+O(C)c1ncc(-n2nc(nn2)-c2ccccc2NC(=O)c2ccccc2)cc1,N-(2-(2-(6-Methoxypyridin-3-yl)-2H-tetrazol-5-yl)phenyl)benzamide,Koehler_2018,IC50,1,0.000000102
+O=C(Nc1ccccc1-c1nn(nn1)-c1ccc(cc1)C)c1ccc([N+](=O)[O-])cc1,N-(2-(2-(4-Methylphenyl)-2H-tetrazol-5-yl)phenyl)-4-nitrobenzamide,Kohler_2015,IC50,1,0.0000001
+FC(F)(F)c1ccc(cc1)C(=O)Nc1ccccc1-c1oc(nn1)-c1ccc(OC)cc1,"N-(2-(5-(4-methoxyphenyl)-1,3,4-oxadiazol-2-yl)phenyl)-4-(trifluoromethyl)benzamid",Koehler_2018,IC50,1,0.00000009
+[NH+]1(CCN(CC1)c1ncnc2c1n1c(CCCC1)c2C#N)CCc1ccccc1,"4-(4-phenethylpiperazin-1-yl)-6,7,8,9-tetrahydropyrimido[4,5-b]indolizine-10-carbonitrile",Schmitt_2016,IC50 (uM),1,0.00000819
+FC(F)(F)c1ccc(cc1)C(=O)Nc1ccc(OC)cc1-c1nn(nn1)-c1ccc(OC)cc1,N-(4-Methoxy-2-(2-(4-methoxyphenyl)-2H-tetrazol-5-yl)phenyl)-4-(trifluoromethyl)benzamide,Koehler_2018,IC50,1,7.74E-08
+FC(F)(F)c1ccc(-n2nc(nn2)-c2ccccc2NC(=O)c2ccc(OC)cc2)cc1,4-Methoxy-N-(2-(2-(4-(trifluoromethyl)phenyl)-2H-tetrazol-5-yl)-phenyl)benzamide,Kohler_2015,IC50,1,0.000000073
+O(C)c1ccc(cc1)C(=O)Nc1ccccc1-c1nn(nn1)-c1ccc(OC)nc1,4-Methoxy-N-(2-(2-(6-methoxypyridin-3-yl)-2H-tetrazol-5-yl)phenyl)benzamide,Koehler_2018,IC50,1,6.16E-08
+O(C)c1cc(ccc1OC)\C=C\C(=O)c1cc(NC(=O)c2ccccc2)ccc1,"(E)-N-{3-[3-(3,4-Dimethoxyphenyl)acryloyl]phenyl}benzamide",Kraege_2016,IC50 (uM),1,0.00218
+Brc1cc(ccc1)C(=O)Nc1cc(ccc1)C(=O)\C=C\c1cc(OC)c(OC)cc1,"(E)-3-Bromo-N-{3-[3-(3,4-dimethoxyphenyl)acryloyl]phenyl}benzamide",Kraege_2016,IC50 (uM),1,0.00299
+O(C)c1cc(ccc1OC)\C=C\C(=O)c1ccc(NC(=O)c2ccccc2)cc1,"(E)-N-{4-[3-(3,4-Dimethoxyphenyl)acryloyl]phenyl}benzamide",Kraege_2016,IC50 (uM),1,0.0013
+O(C)c1cc(ccc1OC)\C=C\C(=O)c1ccc(NC(=O)c2ccccc2[N+](=O)[O-])cc1,"(E)-N-{4-[3-(3,4-Dimethoxyphenyl)acryloyl]phenyl}-2-nitrobenzamide",Kraege_2016,IC50 (uM),1,0.00298
+O(C)c1cc(ccc1OC)\C=C\C(=O)c1ccc(NC(=O)c2cc([N+](=O)[O-])ccc2)cc1,"(E)-N-{4-[3-(3,4-Dimethoxyphenyl)acryloyl]phenyl}-3-nitrobenzamide",Kraege_2016,IC50 (uM),1,0.00282
+O=C(Nc1ccccc1-c1nn(nn1)-c1ccccc1)c1cc([N+](=O)[O-])ccc1,3-nitro-N-(2-(2-phenyl-2H-tetrazol-5-yl)phenyl)-benzamide,Koehler_2016,IC50 (uM),1,0.000127
+O=C(Nc1ccccc1-c1nn(nn1)-c1ccccc1)c1ccccc1[N+](=O)[O-],2-nitro-N-(2-(2-phenyl-2H-tetrazol-5-yl)phenyl)-benzamide,Koehler_2016,IC50 (uM),1,0.00028
+O(C)c1ccc(cc1)C(=O)Nc1ccccc1-c1nn(nn1)-c1ccccc1,4-methoxy-N-(2-(2-phenyl-2H-tetrazol-5-yl)phenyl)benzamide,Koehler_2016,IC50 (uM),1,0.0002
+O=C(Nc1ccccc1-c1nn(nn1)-c1ccccc1)c1ccc(cc1)CCC,N-(2-(2-phenyl-2H-tetrazol-5-yl)phenyl)-4-propylbenzamide,Koehler_2016,IC50 (uM),1,0.000212
+Oc1c2c3c(n(c2ccc1)Cc1ccccc1)-c1c(cccc1)C3=O,"5-benzyl-9-hydroxyindeno[1,2-b]indol-10(5H)-one",Gozzi_2015,%inhibition at 10 uM,1,0.000068
+Oc1c2c3c(n(c2ccc1)CCc1ccccc1)-c1c(cccc1)C3=O,"9-Hydroxy-5-(2-phenylethyl)-5H-indeno[1,2-b]indole-10-one",Gozzi_2015,IC50 (uM),1,0.00000016
+Oc1c2c3c(n(c2ccc1)CCCc1ccccc1)-c1c(cccc1)C3=O,"9-Hydroxy-5-(3-phenylpropyl)-5H-indeno[1,2-b]indole-10-one",Gozzi_2015,IC50 (uM),1,0.00000064
+Oc1cc(cc2n(c-3c(c12)C(=O)c1c-3cccc1)Cc1ccccc1)-c1ccccc1,"5-benzyl-9-hydroxy-7-phenylindeno[1,2-b]indol-10(5H)-one",Gozzi_2015,%inhibition at 10 uM,1,0.000056
+Oc1cc(cc2n(c-3c(c12)C(=O)c1c-3cccc1)CCc1ccccc1)C,"9-Hydroxy-7-methyl-5-(2-phenylethyl)-5H-indeno[1,2-b]indole-10-one",Gozzi_2015,IC50 (uM),1,0.00000016
+Oc1cc(cc2n(c-3c(c12)C(=O)c1c-3cccc1)CCc1ccccc1)-c1ccccc1,"9-Hydroxy-7-phenyl-5-(2-phenylethyl)-5H-indeno[1,2-b]indole-10-one",Gozzi_2015,IC50 (uM),1,0.00000051
+O(C)c1ccccc1CCn1c-2c(c3c1cccc3O)C(=O)c1c-2cccc1,"9-Hydroxy-5-[2-(2-methoxyphenyl)ethyl]-5H-indeno[1,2-b]indole-10-one",Gozzi_2015,IC50 (uM),1,0.00000015
+O(C)c1cc(ccc1)CCn1c-2c(c3c1cccc3O)C(=O)c1c-2cccc1,"9-Hydroxy-5-[2-(3-methoxyphenyl)ethyl]-5H-indeno[1,2-b]indole-10-one",Gozzi_2015,IC50 (uM),1,0.00000037
+O(C)c1ccc(cc1)CCn1c-2c(c3c1cccc3O)C(=O)c1c-2cccc1,"9-Hydroxy-5-[2-(4-methoxyphenyl)ethyl]-5H-indeno[1,2-b]indole-10-one",Gozzi_2015,IC50 (uM),1,0.0000002
+O=C1c2n(c-3c(c2C(=O)C=C1C)C(=O)c1c-3cccc1)CCc1ccccc1,"7-Methyl-5-(2-phenylethyl)-5H-indeno[1,2-b]indole-6,9,10-trione",Gozzi_2015,IC50 (uM),1,0.00000084
+O=C1c2n(c-3c(c2C(=O)C=C1c1ccccc1)C(=O)c1c-3cccc1)CCc1ccccc1,"7-Phenyl-5-(2-phenylethyl)-5H-indeno[1,2-b]indole-6,9,10-trione",Gozzi_2015,IC50 (uM),1,0.00000043
+O=C1CCCc2n(c-3c(c12)C(=O)c1c-3cccc1)CCc1ccccc1,"5-phenethyl-7,8-dihydroindeno[1,2-b]indole-9,10(5H,6H)-dione",Gozzi_2015_2,IC50 (uM),1,0.00000043
+O=C1CCCc2n(c-3c(c12)C(=O)c1c-3cccc1)CCCc1ccccc1,"5-(3-phenylpropyl)-7,8-dihydroindeno[1,2-b]indole-9,10(5H,6H)-dione",Gozzi_2015_2,IC50 (uM),1,0.00000079
+O=C1CC(Cc2n(c-3c(c12)C(=O)c1c-3cccc1)C(C)C)C,"5-isopropyl-7-methyl-7,8-dihydroindeno[1,2-b]indole-9,10(5H,6H)-dione",Gozzi_2015_2,IC50 (uM),1,0.0000041
+O=C1CC(Cc2n(c-3c(c12)C(=O)c1c-3cccc1)Cc1ccccc1)c1ccccc1,"5-benzyl-7-phenyl-7,8-dihydroindeno[1,2-b]indole-9,10(5H,6H)-dione",Gozzi_2015_2,IC50 (uM),1,0.00000096
+O=C1CC(Cc2n(c-3c(c12)C(=O)c1c-3cccc1)CCc1ccccc1)C,"7-methyl-5-phenethyl-7,8-dihydroindeno[1,2-b]indole-9,10(5H,6H)-dione",Gozzi_2015_2,IC50 (uM),1,0.00000023
+O1CC2=C(C=C3N(Cc4c3nc3c(cc(O)cc3)c4CC)C2=O)[C@@](O)(CC)C1=O,SN-38 103220117,Suzuki_2003 Feng_2009,IC50 reported by Montanari_2014,1,0.0000016
+Oc1c2c(C(=O)c3c(C2=O)c(NCC[NH2+]CCO)ccc3NCC[NH2+]CCO)c(O)cc1,Mltoxantrone mitoxantrone,Suzuki_2003 Saito_2006,IC50 reported by Montanari_2014,0,0.000061
+O1[C@@H](C)[C@@H](O)[C@@H]([NH3+])C[C@@H]1O[C@@H]1c2c(C[C@](O)(C1)C(=O)C)c(O)c1c(C(=O)c3c(cccc3OC)C1=O)c2O,Daunorubicin daunorubicin,Suzuki_2003 Saito_2006,IC50 reported by Montanari_2014,0,0.000059
+O=[N+]([O-])c1cc(ccc1)-c1nc(NC2CCCCC2)c2c(n1)cccc2,N-cyclohexyl-2-(3-nitrophenyl)quinazolin-4-amine,Krapf_2017_2,IC50,1,2.78
+O(C)c1cc(Nc2nc(nc3c2cccc3)-c2ccc(OC)cc2)ccc1,N-(3-methoxyphenyl)-2-(4-methoxyphenyl)quinazolin-4-amine,Krapf_2017_2,IC50,1,2.14
+O(C)c1ccc(cc1)-c1nc(Nc2cc(ccc2)C#N)c2c(n1)cccc2,3-((2-(4-methoxyphenyl)quinazolin-4-yl)amino)benzonitrile,Krapf_2017_2,IC50,1,2.12
+Ic1ccc(Nc2nc(nc3c2cccc3)-c2cc([N+](=O)[O-])ccc2)cc1,N-(4-iodophenyl)-2-(3-nitrophenyl)quinazolin-4-amine,Krapf_2017_2,IC50,1,1.77
+Fc1cc(Nc2nc(nc3c2cccc3)-c2cc(OC)ccc2)ccc1,N-(3-fluorophenyl)-2-(3-methoxyphenyl)quinazolin-4-amine,Krapf_2017_2,IC50,1,1.64
+Fc1ccc(Nc2nc(nc3c2cccc3)-c2cc(OC)ccc2)cc1[N+](=O)[O-],N-(4-fluoro-3-nitrophenyl)-2-(3-methoxyphenyl)quinazolin-4-amine,Krapf_2017_2,IC50,1,1.19
+O1c2c(C(=O)C(OC)=C1c1cc(OC)c(OC)cc1)c(O)cc(OC)c2,"2-(3,4-Dimethoxyphenyl)-5-hydroxy-3,7-dimethoxy-4H-chromen-4-one Retusin",Juvale_2013 Pick_2011,IC50 reported by Montanari_2014,1,0.00000054
+O1c2c(ccc3c2cccc3)C(=O)C=C1c1ccccc1,"2-Phenyl-4H-benzo[h]chromen-4-one 11790 7,8-Benzoflavone",Juvale_2013 Sjostedt_2017 flavonoids_Zhang_2005,IC50 transport value_%_ reported by Montanari_2014,1,1.31
+O(C)c1cc(ccc1)-c1nc(Nc2cc(OC)ccc2)c2c(n1)cccc2,"N,2-bis(3-methoxyphenyl)quinazolin-4-amine",Krapf_2017_2,IC50,1,0.811
+Brc1ccc(Nc2nc(nc3c2cccc3)-c2cc([N+](=O)[O-])ccc2)cc1OC,N-(4-bromo-3-methoxyphenyl)-2-(3-nitrophenyl)quinazolin-4-amine,Krapf_2017_2,IC50,1,0.801
